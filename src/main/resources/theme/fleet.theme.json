@@ -1,0 +1,28 @@
+{
+  "author": "Arikkusan",
+  "dark": true,
+  "name": "Fleet Like Theme",
+  "editorScheme": "/theme/FleetTheme.xml",
+  "colors": {
+    "colorPrimary": "#181818",
+    "white": "#D1D1D1"
+  },
+  "ui": {
+    "*": {
+      "background": "colorPrimary",
+      "foreground": "white",
+      "EditorTabs.background": "colorPrimary",
+      "Editor.background": "colorPrimary",
+      "selectionBackground": "colorPrimary",
+      "selectionInactiveBackground": "colorPrimary",
+      "borderColor": "colorPrimary",
+      "disabledBorderColor": "colorPrimary",
+      "separatorForeground": "colorPrimary",
+      "separatorColor": "colorPrimary",
+      "lineSeparatorColor": "colorPrimary"
+    },
+    "MainToolbar.background": "#292929",
+    "EditorTabs.underlineColor": "#FFFFFF",
+    "MainWindow.Tab.selectedForeground": "#FF0000"
+  }
+}
